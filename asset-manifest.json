@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/calcionews/static/js/main.72024732.js",
+    "main.js": "/calcionews/static/js/main.ef77ba9b.js",
     "index.html": "/calcionews/index.html",
-    "main.72024732.js.map": "/calcionews/static/js/main.72024732.js.map"
+    "main.ef77ba9b.js.map": "/calcionews/static/js/main.ef77ba9b.js.map"
   },
   "entrypoints": [
-    "static/js/main.72024732.js"
+    "static/js/main.ef77ba9b.js"
   ]
 }
